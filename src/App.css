@@ -18,6 +18,12 @@
   color: white;
 }
 
+#computerCard {
+  width: 226px;
+  height: 314px;
+  border-radius: 10px;
+}
+
 .App-link {
   color: #61dafb;
 }
